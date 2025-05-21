@@ -1,0 +1,42 @@
+﻿@code {
+    private int selectedRating = 0;
+    private bool submitted = false;
+
+    private void SetRating(int rating)
+    {
+        if (!submitted)
+        {
+            selectedRating = rating;
+        }
+    }
+
+    private void SubmitRating()
+    {
+        if (selectedRating > 0)
+        {
+            submitted = true;
+        }
+    }
+}
+
+<div>
+    <h3>Оцініть наш сайт:</h3>
+    <div>
+        @for (int i = 1; i <= 5; i++)
+        {
+            <span style="font-size: 2rem; cursor: pointer; color:@(i <= selectedRating ? "gold" : "gray")"
+                  @onclick="() => SetRating(i)">
+                ★
+            </span>
+        }
+    </div>
+
+    @if (!submitted)
+    {
+        <button @onclick="SubmitRating" disabled="@(selectedRating == 0)">Надіслати</button>
+    }
+    else
+    {
+        <p>Дякуємо за оцінку!</p>
+    }
+</div>
