@@ -1037,3 +1037,13 @@ D:\kurs2\BlazorApp2\BlazorApp2\obj\Debug\net8.0\BlazorApp2.dll
 D:\kurs2\BlazorApp2\BlazorApp2\obj\Debug\net8.0\refint\BlazorApp2.dll
 D:\kurs2\BlazorApp2\BlazorApp2\obj\Debug\net8.0\BlazorApp2.pdb
 D:\kurs2\BlazorApp2\BlazorApp2\obj\Debug\net8.0\ref\BlazorApp2.dll
+C:\Users\Admin\Desktop\BlazorApp2\BlazorApp2\obj\Debug\net8.0\BlazorApp2.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\BlazorApp2\BlazorApp2\obj\Debug\net8.0\BlazorApp2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\BlazorApp2\BlazorApp2\obj\Debug\net8.0\BlazorApp2.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\BlazorApp2\BlazorApp2\obj\Debug\net8.0\BlazorApp2.AssemblyInfo.cs
+C:\Users\Admin\Desktop\BlazorApp2\BlazorApp2\obj\Debug\net8.0\BlazorApp2.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\BlazorApp2\BlazorApp2\obj\Debug\net8.0\BlazorApp2.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Admin\Desktop\BlazorApp2\BlazorApp2\obj\Debug\net8.0\BlazorApp2.sourcelink.json
+C:\Users\Admin\Desktop\BlazorApp2\BlazorApp2\obj\Debug\net8.0\BlazorApp2.dll
+C:\Users\Admin\Desktop\BlazorApp2\BlazorApp2\obj\Debug\net8.0\refint\BlazorApp2.dll
+C:\Users\Admin\Desktop\BlazorApp2\BlazorApp2\obj\Debug\net8.0\BlazorApp2.pdb
